@@ -11,4 +11,4 @@ Este programa lo estoy creando para practicar los comandos de git para llegar a 
 
 <h2 style="{color:red}">Parche 2.0</h2>
 
-<p>Agregamos los archivos home.css y home.js y otras funcionalidades</p>
+<p>Agregamos los archivos home.css y home.js y otras funcionalidades, tambien un archivo con los comandos de git :3</p>
